@@ -1,0 +1,31 @@
+body{
+	justify-content: center;
+	display: flex;
+	box-sizing: border-box;
+	align-items: center;
+	background:url("https://res.cloudinary.com/dh8qsxbuy/image/upload/v1741745442/Background_djpdkd.png");
+	background-size: cover;
+	background-position: center;
+	list-style-type: none;
+
+}
+
+h1{
+
+	text-align: center;
+	font-size:30px;
+	color: darkblue;
+	font-weight: bold;
+
+}
+
+.sign_up_li{
+	box-sizing: border-box;
+	width: 400px;
+	margin: 0 auto;
+	padding: 8px;
+	list-style-type: none;
+	box-shadow: 0px,0px,10px,0px rgba(0, 0, 0 / 0.1);
+	background-color: rgba(255, 255, 255, 0.8);
+	border-radius: 8px;
+}
